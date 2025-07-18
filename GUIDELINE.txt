@@ -1,0 +1,2 @@
+Basic Form of audiux. 
+Read Audiux txt file.

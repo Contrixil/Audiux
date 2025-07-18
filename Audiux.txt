@@ -1,0 +1,291 @@
+<!DOCTYPE HTML>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[CHANGE]</title>
+    <meta name="Audiux is the free music downloading platform." content="">
+    <link rel="stylesheet" href="https://audiux.neocities.org/sda.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <link rel="stylesheet" href="https://audiux.neocities.org/pass.css">
+      <link rel="icon" type="image/x-icon" href="https://audiux.neocities.org/favicon%20(1).ico">
+    <meta http-equiv="content-language" content="en">
+    <link href="https://audiux.neocities.org/" rel="canonical">
+<link rel="stylesheet" href="https://audiux.neocities.org/test/credit.css">
+<style>
+.box>a{
+  color:white;
+  text-decoration:none;
+}
+
+ button {
+      background-color: #6e3415;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #brown;
+    }
+
+    button:active {
+      background-color: #3e8e41;
+    }
+</style>
+
+ <script>
+function openNav1() {
+  document.getElementById("mySidenav1").style.width = "100%";
+}
+
+function closeNav1() {
+  document.getElementById("mySidenav1").style.width = "0";
+}
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+ 
+
+    <header class="header" >
+    <br>
+    
+        <div class="header-container">
+                    
+
+
+<a href="https://audiux.neocities.org/"><img class="brand" src="https://audiux.neocities.org/logo-no-background.png" ></a><br><br>
+
+<br><br><br>
+
+
+
+
+ <div id="mySidenav1" class="sidenav">
+                  <center>  <h2>             Menu</h2></center>
+                    <br>
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav1()">&times;</a>
+  <a href="https://audiux.neocities.org/main"><i class="fa-solid fa-newspaper"></i>  Articles</a>
+  <a href="https://audiux.neocities.org/audiux/MusicLibrary/MusicLibrary"><i class="fa-solid fa-music"></i>  Music Library</a>
+  <a href="https://audiux.neocities.org/audiux/Tags/blocked">©  Credits</a>
+  <a href="https://audiux.neocities.org/audiux/About"><i class="fa-solid fa-circle-info"></i>  About</a>
+
+  <a href="https://audiux.neocities.org/audiux/Contact.html/contact"><i class="fa-solid fa-paper-plane"></i>  Contact</a>
+  <a href="https://audiux.neocities.org/audiux/Dynachat/Dynachat"><i class="fa-solid fa-comments"></i>  Dynachat ᴺᴱᵂᵎ</a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+ 
+              
+  <hr>
+  <a id="user-button"  onclick="openModal()" style="cursor: pointer;"><i class="fa-solid fa-arrow-right-to-bracket"></i>  Sign in</a>
+</div>
+ <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">×</span>
+            <h2>Login / Register</h2>
+            <div id="login-register-buttons">
+                <button class="modal-button" onclick="showLogin()">Login</button>
+                <button class="modal-button" onclick="showRegister()">Register</button>
+            </div>
+            <div id="login-form" style="display:none;">
+                <h3>Login</h3>
+                <input type="text" id="login-username" placeholder="Username"><br>
+                <input type="password" id="login-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="login()">Submit</button>
+            </div>
+            <div id="register-form" style="display:none;">
+                <h3>Register</h3>
+                <input type="text" id="register-name" placeholder="Username"><br>
+                <input type="password" id="register-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="register()">Submit</button>
+            </div>
+        </div>
+    </div>
+  <a class="credit-display" href="https://audiux.neocities.org/audiux/Credits/credit" style="color:white;"><div  id="credit-display" style="border: 1px solid #D3D3D3; border-radius: 10px; padding: 10px; margin-left: auto;">
+<center><p style=" font-size:12px;">My Credit</p></center>
+   <center> <p id="credit-amount">5 ©</p></center>
+</div></a>
+<span class="menu" id="menu" style="cursor:pointer ;" onclick="openNav1()">&#9776;   </span>
+<br>
+
+           
+        </div> 
+       
+      
+       <br>
+       
+    </header>
+    
+  
+    
+
+<br>
+<br>
+ <center><h1>[TITLE]</h1></center>
+
+
+<a href="https://audiux.neocities.org/audiux/MusicLibrary/MusicLibrary"><img src="https://neocities.org/site_thumbnails/31/63/audiux/HomeArticles/pic/GoBack.png.210x158.webp" class="goback" alt="Go Back"></a><h1>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h1>
+
+<br/>Author: <strong>Administrator</strong>
+
+  
+<div id="insufficient-credit-message"></div>
+        
+
+            <!-- sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-content">
+                <br>
+                  <center>  <h2>[TITLE] is Unlockable.</h2>
+                    <br>
+                    <br>
+                    <br>
+                    <strong>Audio</strong>
+                    <br>
+                    [TITLE]
+                    <br>
+                  
+                    <img style="width:200px; height:200px;" src="[IMG LINK]"> <br>
+                    
+<br>
+
+<div id="mySidenav" class="sidenav" style="color:white; background-color:rgba([COLOR CODE], 0.9);">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()" style="font-size:50px;">&times;</a>
+  <center>  <h2>[TITLE]</h2>
+                    <br>
+                    <br>
+                    <br>
+                    <strong>Audio</strong>
+                    <br>
+                   [TITLE]
+                    <br>
+                    <img style="width:200px; height:200px;" src="[IMG LINK]">
+                    <br>
+                    
+<br>
+
+<audio controls="">
+<source src="[MP3 LINK]" type="audio/mpeg"></audio><br>
+
+                    <br>
+                   
+<div style=" max-width:450px; justify-content:center;">
+<div style="position:absolute; border: 1px solid #D3D3D3; border-radius: 10px; padding: 10px; margin-left: auto; height:200px; width:450px; font-size:25px;"><h4>Download</h4><br> <a href="[FILE PATH]" download><button id="downloadBtn" class="button"><i class="fa-solid fa-download"></i>Download</button></a><br><br><p style=" font-size:10px;">▲ Press <strong></strong> to download this song.<br>If the audio does not loaded, please wait for a minute.</p></div></div>
+                    <br>
+                    
+<br><br><br><br><br><br>
+  <br><br>
+                    <br>
+                    <strong>Lyrics</strong>
+                    <br>
+                    <br>
+                  
+[LYRICS(copy and paste)]
+
+                    <br><br>
+                    <br>
+                    <br>
+                   
+                    <br>
+                    <br>
+        
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br><br>
+                    <br>
+                    <br><br>
+                    </center>
+                </div>
+ <div class="container">
+<a href="#" id="m-credit-8" class="button"  data-amount="0">Free to Download</a>
+
+  </div></center><br><br>
+<center>▲ We <strong>DO NOT</strong> redirect to the random sites.
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br><br>
+                    <br>
+                    <p style="color:gray;">or check more in their youtube channel.</p><br>
+                    <a href="[MUSICIAN YT LINK]"><i class="fa-brands fa-youtube fa-2xl"></i>@[MUSICIAN YT HANDLEBAR]</a>
+                    <br>
+                    <br>
+                    <br>
+                    <br><br>
+                    <br>
+                    </center>
+                   <strong style="color:#808080;">Tags:</strong> <a href="#"><button style=" width:80px; height:20px; color:#808080;">New Arrivals</button></a> <a href="#"><button style=" width:50px; height:20px; color:#808080;">Healing</button></a> <a href="#"><button style=" width:80px; height:20px; color:#808080;">English Style</button></a>
+                </div>
+            </aside>
+            
+
+     
+
+   
+       <footer>
+       
+        <!-- pages -->
+        <strong>Quick Menu</strong>
+        <br>
+        <br>
+        <div>
+            <ul>
+                <li><a href="https://audiux.neocities.org"><i class="fa-solid fa-house"></i></a></li>
+                <li><a href="https://audiux.neocities.org/audiux/About"><i class="fa-solid fa-circle-info"></i></a></li>
+                <li><a href="https://audiux.neocities.org/audiux/Contact.html/contact"><i class="fa-solid fa-paper-plane"></i></a></li>
+               <li> <a href="https://audiux.neocities.org/audiux/MusicLibrary/MusicLibrary"><i class="fa-solid fa-music"></i></a></li>
+            </ul>
+        </div>
+        <br>
+        <p>Finally I realize how to make video sharing <a href=""></a>
+        <br>
+                <br>
+                        <br>
+                                <br>        
+    </footer>
+  <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">×</span>
+            <h2>Login  / Register </h2>
+            <div id="login-register-buttons">
+                <button class="modal-button" onclick="showLogin()">Login </button>
+                <button class="modal-button" onclick="showRegister()">Register </button>
+            </div>
+            <div id="login-form" style="display:none;">
+                <h3>Login</h3>
+                <input type="text" id="login-username" placeholder="User name"><br>
+                <input type="password" id="login-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="login()">Submit</button>
+            </div>
+            <div id="register-form" style="display:none;">
+                <h3>Register</h3>
+                <input type="text" id="register-name" placeholder="Username"><br>
+
+                <input type="password" id="register-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="register()">Submit</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://audiux.neocities.org/dssfd.js"></script>
+    <script src="https://audiux.neocities.org/jaj.js"></script>
+   
+
+
+ <script src="https://audiux.neocities.org/banner.js"></script>
+
+ <script src="https://audiux.neocities.org/test/credit.js"></script>
+</body></html>
+

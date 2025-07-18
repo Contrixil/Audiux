@@ -1,0 +1,354 @@
+<!DOCTYPE HTML>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BoomBoomBass-download</title>
+    <meta name="Audiux is the free music downloading platform." content="">
+    <link rel="stylesheet" href="https://audiux.neocities.org/sda.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <link rel="stylesheet" href="https://audiux.neocities.org/pass.css">
+      <link rel="icon" type="image/x-icon" href="https://audiux.neocities.org/favicon%20(1).ico">
+    <meta http-equiv="content-language" content="en">
+    <link href="https://audiux.neocities.org/" rel="canonical">
+<link rel="stylesheet" href="https://audiux.neocities.org/test/credit.css">
+<style>
+.box>a{
+  color:white;
+  text-decoration:none;
+}
+</style>
+
+ <script>
+function openNav1() {
+  document.getElementById("mySidenav1").style.width = "100%";
+}
+
+function closeNav1() {
+  document.getElementById("mySidenav1").style.width = "0";
+}
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" onkeydownn="return false">
+
+ 
+
+    <header class="header" >
+    <br>
+    
+        <div class="header-container">
+                    
+
+
+<a href="https://audiux.neocities.org/"><img class="brand" src="https://audiux.neocities.org/logo-no-background.png" ></a><br><br>
+
+<br><br><br>
+
+
+
+
+ <div id="mySidenav1" class="sidenav">
+                  <center>  <h2>             Menu</h2></center>
+                    <br>
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav1()">&times;</a>
+  <a href="https://audiux.neocities.org/main"><i class="fa-solid fa-newspaper"></i>  Articles</a>
+  <a href="https://audiux.neocities.org/audiux/MusicLibrary/MusicLibrary"><i class="fa-solid fa-music"></i>  Music Library</a>
+  <a href="https://audiux.neocities.org/audiux/Tags/blocked">©  Credits</a>
+  <a href="https://audiux.neocities.org/audiux/About"><i class="fa-solid fa-circle-info"></i>  About</a>
+
+  <a href="https://audiux.neocities.org/audiux/Contact.html/contact"><i class="fa-solid fa-paper-plane"></i>  Contact</a>
+  <a href="https://audiux.neocities.org/audiux/Dynachat/Dynachat"><i class="fa-solid fa-comments"></i>  Dynachat ᴺᴱᵂᵎ</a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+ 
+              
+  <hr>
+  <a id="user-button"  onclick="openModal()" style="cursor: pointer;"><i class="fa-solid fa-arrow-right-to-bracket"></i>  Sign in</a>
+</div>
+ <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">×</span>
+            <h2>Login / Register</h2>
+            <div id="login-register-buttons">
+                <button class="modal-button" onclick="showLogin()">Login</button>
+                <button class="modal-button" onclick="showRegister()">Register</button>
+            </div>
+            <div id="login-form" style="display:none;">
+                <h3>Login</h3>
+                <input type="text" id="login-username" placeholder="Username"><br>
+                <input type="password" id="login-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="login()">Submit</button>
+            </div>
+            <div id="register-form" style="display:none;">
+                <h3>Register</h3>
+                <input type="text" id="register-name" placeholder="Username"><br>
+                <input type="password" id="register-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="register()">Submit</button>
+            </div>
+        </div>
+    </div>
+  <a class="credit-display" href="https://audiux.neocities.org/audiux/Credits/credit" style="color:white;"><div  id="credit-display" style="border: 1px solid #D3D3D3; border-radius: 10px; padding: 10px; margin-left: auto;">
+<center><p style=" font-size:12px;">My Credit</p></center>
+   <center> <p id="credit-amount">5 ©</p></center>
+</div></a>
+<span class="menu" id="menu" style="cursor:pointer ;" onclick="openNav1()">&#9776;   </span>
+<br>
+
+           
+        </div> 
+       
+      
+       <br>
+       
+    </header>
+    
+
+<br>
+<br>
+ <center><h1>New arrival-boomboombass(RIIZE)</h1></center>
+
+<center>2024-07-01</center>
+<a href="https://audiux.neocities.org/audiux/MusicLibrary/MusicLibrary"><img src="https://neocities.org/site_thumbnails/31/63/audiux/HomeArticles/pic/GoBack.png.210x158.webp" class="goback" alt="Go Back"></a><h1>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h1>
+
+<br/>Author: <strong>Contrixil</strong>
+
+  
+<div id="insufficient-credit-message"></div>
+        
+
+            <!-- sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-content">
+                <br>
+                  <center>  <h2>BoomBoomBass-RIIZE(라이즈)</h2>
+                    <br>
+                    <br>
+                    <br>
+                    <strong>Audio</strong>
+                    <br>
+                    BoomBoomBass-RIIZE(라이즈)
+                    <br>
+                  
+                    <img style="width:10%; height:10%" src="https://image.bugsm.co.kr/album/images/200/40997/4099766.jpg?version=20240709004606.0">
+                    <br>
+                    
+<br>
+
+<div id="mySidenav" class="sidenav" style="color:white; background-color:rgba(139, 175, 251, 0.9);">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()" style="font-size:50px;">&times;</a>
+   <center>  <h2>BoomBoomBass-RIIZE(라이즈)</h2>
+                    <br>
+                    <br>
+                    <br>
+                    <strong>Audio</strong>
+                    <br>
+                    BoomBoomBass-RIIZE(라이즈)
+                    <br>
+                    <img src="https://image.bugsm.co.kr/album/images/200/40997/4099766.jpg?version=20240709004606.0">
+                    <br>
+                    
+<br>
+<audio controls preload="metadata" style=" width:300px;">
+	<source src="https://www.liveworksheets.com/sites/default/files/def_files/new/2024/6/19/8214560/RIIZE%20%EB%9D%BC%EC%9D%B4%EC%A6%88%20%27Boom%20Boom%20Bass%27%20MV.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio><br>
+▲ Press <strong>⋮</strong> to download this song.<br>If the audio does not loaded, please wait for a minute.
+                    <br>
+                    <br>
+                    
+                    <br>
+                    <strong>Lyrics</strong>
+                    <br>
+                    <br>
+
+                    [Verse 1: Wonbin, Sohee]<br>
+My baby like to string me on<br>
+좀 더 내게 다가와<br>
+네게 맞춰 온 my bass<br>
+살짝 너의 맘을 slide<br>
+그냥 놓치긴 아쉬워 난<br>
+넌 어떻게 생각해<br>
+자 follow me now<br>
+이 리듬이 다시 make me spin<br>
+<br><br><br>
+[Chorus: Sungchan, Anton, Eunseok]<br>
+We makin' music<br>
+Every day we play<br>
+가볍게 groovin'<br>
+느낀 대로 해<br>
+Don't stop the music<br>
+Hands up on my bass<br>
+지금부터 lower, lower, lower<br>
+We want that<br>
+<br><br><br>
+[Post-Chorus: Wonbin, Shotaro, Anton, Sohee]<br>
+Boom-ba-doom, boom, boom, bass<br>
+(That boom-ba-doom, boom, boom, bass)<br>
+That boom-ba-doom, boom, boom, bass<br>
+(That boom-ba-doom, boom, boom, bass)<br>
+We got that boom-ba-doom, on my bass<br>
+(Boom-ba-doom, on my bass)<br>
+우린 좀 더 lower, lower, lower<br>
+We want that<br>
+<br><br><br>
+
+
+
+[Verse 2: Sungchan, Anton]<br>
+박자에 맞춰 up, down 줄을 감싸<br>
+밀고 당겨 doom slap, let's countdown<br>
+음은 자꾸만 flat, 괜찮아 뭐 어때?<br>
+우리 사이 keep going make a bass line (Hoo)<br>
+너도 왠지 템포가 빨라<br>
+따라와 둘만의 timeline<br>
+Hands in the sky, yeah<br>
+You know what I like<br>
+<br><br><br>
+[Chorus: Shotaro, Sohee, Anton]<br>
+We makin' music<br>
+Every day we play<br>
+가볍게 groovin'<br>
+느낀 대로 해<br>
+Don't stop the music<br>
+Hands up on my bass<br>
+지금부터 lower, lower, lower<br>
+We want that<br>
+<br><br><br>
+[Post-Chorus: Eunseok, Sungchan, Sohee, Wonbin]<br>
+Boom-ba-doom, boom, boom, bass<br>
+(That boom-ba-doom, boom, boom, bass)<br>
+That boom-ba-doom, boom, boom, bass<br>
+(That boom-ba-doom, boom, boom, bass)<br>
+We got that boom-ba-doom, on my bass<br>
+(Boom-ba-doom, on my bass)<br>
+우린 좀 더 lower, lower, lower (Ooh, lower)<br>
+We want that (We want that)<br>
+
+<br><br><br>
+[Interlude]<br>
+(Boom-ba-doom, boom, boom, boom) We want that boom, boom<br>
+(Boom-ba-doom, boom, boom, boom) We want that boom, boom<br>
+(Boom-ba-doom, boom, boom, boom) We want that boom, boom<br>
+(Boom-ba-doom, boom, boom, boom) We want that boom, boom<br>
+(Boom-ba-doom, boom, boom, boom) We want that boom, boom<br>
+(Boom-ba-doom, boom, boom, boom) We want that boom, boom<br>
+(Boom-ba-doom, boom, boom, boom) We want that boom, boom<br>
+(Boom-ba-doom, boom, boom, boom)<br>
+<br><br><br>
+[Chorus: Sungchan, Eunseok, Wonbin, Sohee]<br>
+We makin' music (Yeah)<br>
+Every day we play (Yeah)<br>
+가볍게 groovin' (가볍게 groovin', yeah)<br>
+느낀 대로 해 (Oh)<br>
+Don't stop the music (Yeah, yeah)<br>
+Hands up on my bass (Yeah)<br>
+지금부터 lower, lower, lower (Lower, lower, lower)<br>
+We want that (Ooh-ooh-ooh)<br>
+<br><br><br>
+[Post-Chorus: All, Sungchan, Eunseok]<br>
+Ayy, alright (Ayy, alright)<br>
+나의 손을 잡고 떠올라<br>
+Ayy, alright (Hey, alright)<br>
+너와 내가 자꾸 떠올라<br>
+Ayy, alright (Ayy, alright)<br>
+우린 계속 같이 떠올라 (Don't you want that?)<br>
+지금부터 lower, lower, lower<br>
+We want that<br>
+<br><br><br>
+
+[Outro: Wonbin]<br>
+Boom-ba-doom, boom, boom, bass<br>
+                    <br><br>
+                    <br>
+                    <br>
+                 
+                    <br>
+                    <br>
+                   
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br><br>
+                    <br>
+                    <br>
+                    </center>
+                   <strong style="color:#808080;">Tags:</strong> <a href="#"><button style=" width:80px; height:20px; color:#808080;">New Arrivals</button></a> <a href="#"><button style=" width:50px; height:20px; color:#808080;">K-pop</button></a> <a href="#"><button style=" width:80px; height:20px; color:#808080;">Dance/Pop</button></a>
+                </div>
+ <div class="container">
+    <a href="#" id="m-credit-1" class="button" data-amount="2">Unlock with 2 ©</a>
+
+  </div></center><br><br>
+<center>▲ We <strong>DO NOT</strong> redirect to the random sites.
+                    <br>
+                    <br>
+                    <br>
+                    <br><br>
+                    <br>
+                    <br>
+                    </center>
+                   <strong style="color:#808080;">Tags:</strong> <a href="#"><button style=" width:80px; height:20px; color:#808080;">New Arrivals</button></a> <a href="#"><button style=" width:50px; height:20px; color:#808080;">K-pop</button></a> <a href="#"><button style=" width:80px; height:20px; color:#808080;">Dance/Pop</button></a>
+                </div>
+            </aside>
+            
+
+     
+
+   
+       <footer>
+       
+        <!-- pages -->
+        <strong>Quick Menu</strong>
+        <br>
+        <br>
+        <div>
+            <ul>
+                <li><a href="https://audiux.neocities.org"><i class="fa-solid fa-house"></i></a></li>
+                <li><a href="https://audiux.neocities.org/audiux/About"><i class="fa-solid fa-circle-info"></i></a></li>
+                <li><a href="https://audiux.neocities.org/audiux/Contact.html/contact"><i class="fa-solid fa-paper-plane"></i></a></li>
+               <li> <a href="https://audiux.neocities.org/audiux/MusicLibrary/MusicLibrary"><i class="fa-solid fa-music"></i></a></li>
+            </ul>
+        </div>
+        <br>
+        <p>Finally I realize how to make video sharing <a href=""></a>
+        <br>
+                <br>
+                        <br>
+                                <br>        
+    </footer>
+  <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">×</span>
+            <h2>Login  / Register </h2>
+            <div id="login-register-buttons">
+                <button class="modal-button" onclick="showLogin()">Login </button>
+                <button class="modal-button" onclick="showRegister()">Register </button>
+            </div>
+            <div id="login-form" style="display:none;">
+                <h3>Login</h3>
+                <input type="text" id="login-username" placeholder="User name"><br>
+                <input type="password" id="login-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="login()">Submit</button>
+            </div>
+            <div id="register-form" style="display:none;">
+                <h3>Register</h3>
+                <input type="text" id="register-name" placeholder="Username"><br>
+
+                <input type="password" id="register-password" placeholder="Password"><br>
+                <button class="modal-button" onclick="register()">Submit</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://audiux.neocities.org/dssfd.js"></script>
+    <script src="https://audiux.neocities.org/jaj.js"></script>
+   
+
+
+ <script src="https://audiux.neocities.org/banner.js"></script>
+
+ <script src="https://audiux.neocities.org/test/credit.js"></script>
+</body></html>
